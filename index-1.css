@@ -1,0 +1,46 @@
+.container{
+    align-items:center;
+    margin-left:570px;
+    margin-right:570px;
+    margin-top:80px;
+    margin-bottom:80px;
+    position: relative;
+}
+
+.header{
+    height:40px;
+    margin-bottom:65px;
+}
+
+.text{
+    position:absolute;
+    padding-left:5px;
+    font-size:55px;
+    color:gray;
+    left:0;
+    top:0;
+}
+
+.icon{
+    position:absolute;
+    padding-top:7px;
+    padding-right:5px;
+    font-size:45px;
+    color:red;
+    right:0;
+    top:0;
+}
+
+.card{
+    align-items:center;
+    margin-bottom:30px;
+    width:352px;
+    height:52px;
+    padding-top:18px;
+    border-radius:7px;
+    padding-left:18px;
+    border:1px solid red;
+    font-size:25px;
+    text-align:left;
+    box-shadow:4px 4px 8px lightgray;
+}

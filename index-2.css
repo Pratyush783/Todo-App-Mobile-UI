@@ -1,0 +1,64 @@
+.container{
+    align-items:center;
+    margin-left:570px;
+    margin-right:570px;
+    margin-top:80px;
+    margin-bottom:80px;
+    position: relative;
+}
+
+.icon{
+    font-size:35px;
+    color:red;
+}
+
+.text{
+    font-size:40px;
+    color:black;
+    margin-left:13px;
+}
+
+.card{
+    margin-top:55px;
+    padding-top:40px;
+    margin-left:35px;
+    width:305px;
+    height:425px;
+    border:1px solid red;
+    border-radius:7px;
+    box-shadow:4px 4px 4px lightgray;
+    position: relative;
+}
+
+.head-para{
+    color:red;
+    font-size:35px;
+    margin-left:75px;
+}
+
+.para{
+    color:red;
+    text-decoration:line-through;
+    font-weight:bold;
+    margin-left:65px;
+    font-size:30px;
+}
+
+.check-symbol{
+    margin-left:55px;
+}
+
+.check-text{
+    font-size:30px;
+    /*margin-left:60px;*/
+}
+
+.card i{
+    position:absolute;
+    color:red;
+    font-size:35px;
+    padding-right:10px;
+    padding-bottom:10px;
+    right:0;
+    bottom:0;
+}

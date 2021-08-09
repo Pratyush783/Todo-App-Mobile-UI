@@ -1,0 +1,90 @@
+.main{
+    position:relative;
+}
+
+.container{
+    align-items:center;
+    margin-left:570px;
+    margin-right:570px;
+    margin-top:80px;
+    margin-bottom:80px;
+    position: relative;
+}
+
+.header{
+    height:40px;
+    margin-bottom:65px;
+}
+
+.text{
+    position:absolute;
+    padding-left:5px;
+    font-size:55px;
+    color:gray;
+    left:0;
+    top:0;
+}
+
+.icon{
+    position:absolute;
+    padding-top:7px;
+    padding-right:5px;
+    font-size:45px;
+    color:red;
+    right:0;
+    top:0;
+}
+
+.card{
+    align-items:center;
+    margin-bottom:30px;
+    width:352px;
+    height:52px;
+    padding-top:18px;
+    border-radius:7px;
+    padding-left:18px;
+    border:1px solid red;
+    font-size:25px;
+    text-align:left;
+    box-shadow:4px 4px 8px lightgray;
+}
+
+.new-card{
+    padding : 5px 10px 50px 10px;
+    top:300px;
+    left:550px;
+    border:0.01px solid red;
+    background-color: white;
+    width:345px;
+    height:165px;
+    text-align:center;
+    box-shadow: 8px 8px 12px lightgray;
+    border-radius: 9px;
+    padding-bottom: 45px;
+    margin-right:260px;
+    margin-left:28px;
+    position:absolute;
+}
+
+.para-new {
+    color:red;
+    font-size:25px;
+}
+
+#fname {
+    width:250px;
+    height:40px;
+    border-radius:5px;
+    border-color:red;
+    box-shadow: 2px 2px 4px lightgray;
+}
+
+.add-button {
+    position: relative;
+    width:100px;
+    height:45px;
+    border-radius:30px;
+    color:white;
+    background-color:red;
+    margin-bottom:20px;
+}
